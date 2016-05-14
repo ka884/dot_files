@@ -1,0 +1,17 @@
+"*":
+  "atom-beautify":
+    _analyticsUserId: "4bf77d3a-4c1f-4b28-ac90-a4839fdb096d"
+  "autocomplete-plus": {}
+  core: {}
+  editor:
+    backUpBeforeSaving: true
+    invisibles: {}
+    showIndentGuide: true
+    showInvisibles: true
+    softWrap: true
+  "exception-reporting":
+    userId: "f0981d42-e08d-12a2-8b63-fbaac5646e34"
+  minimap:
+    displayCodeHighlights: false
+  welcome:
+    showOnStartup: false
