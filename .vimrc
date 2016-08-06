@@ -1,5 +1,4 @@
 
-ffにする
 filetype off
 "ctagsでタグジャンプを可能にする
 set tags=~/.tags
@@ -59,3 +58,5 @@ set modeline
 set backspace=indent,eol,start
 "文字に色をつける
 syntax on
+"colorscheme molokai
+set t_Co=256

@@ -13,6 +13,8 @@ export NODE_PATH=`npm root -g`
 
 #vim
 alias vim='/usr/local/bin/vim/7.4.1832/bin/vim'
+export VIMRUNTIME=/usr/local/bin/vim/7.4.1832/share/vim/vim74
+
 
 alias ll='ls -l'
 
