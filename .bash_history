@@ -1,455 +1,3 @@
-brew install wget
-wget
-brew install dir
-brew install yum
-yum install
-ls
-cd kali
-exit
-cd kali/
-vagrant status
-vagrant up
-vagrant ssh
-echo hello
-ifconfig 
-cd kali
-vagrant ssh
-exit
-ssh 192.168.33.101@vagrant-kali2
-ssh vagrant-kali2@192.168.33.101
-/etc/init.d/ssh start
-ssh vagrant-kali2@192.168.33.101
-ssh  -p22 vagrant-kali2@192.168.33.101
-cat /var/log/secure
-ls
-ls -a
-cat .ssh/
-ls .ssh/
-cat .ssh/known_hosts 
-ssh vagrant-kali2@192.168.33.101
-ssh vagrant-kali2@192.168.33.101
-ssh vagrant-kali2@192.168.56.101
-ssh vagrant-kali2@192.168.33.101
-ssh vagrant-kali2@192.168.33.101
-ssh vagrant-kali2@192.168.33.101
-la
-cd kali
-vagarnt ssh
-vagrant ssh
-vagarnt ssh
-vagrant ssh
-vagrant ssh
-sudo apt-get install proxychains
-nodebrew proxychains
-brew install proxychains
-brew install proxychains-ng
-ps
-brew install tor
-tor
-ssh vagrant-kali2@192.168.33.101
-cd kali
-vagrant up
-ssh vagrant-kali2@192.168.33.101
-ssh -p 2222 vagrant@127.0.0.1
-ssh -p 2222 vagrant@127.0.0.1
-ssh -p 22 vagrant@127.0.0.1
-ssh -p 22 vagrant@127.0.0.1
-ssh -p 22 vagrant@127.0.0.1
-vagrant ssh
-hostname
-date
-echo hello
-ifconfig 
-vagrant status
-ls -a
-wireshark 
-tor
-ps
-lsof
-dir
-node
-pwd
-date
-hostname
-echo hello
-cat /var/log/system.log | less
-cat /var/log/system.log | less | grep 'connect'
-cd kali
-vagrant ssh
-ifconfig 
-whois fs76eee7a6.tkyc108.ap.nuro.jp.
-nmap 192.168.33.255
-nmap -A 192.168.33.255
-su
-su
-su
-su
-su
-su
-su
-host
-hostname
-nmap -O 192.168.33.255
-whois 192.168.33.255
-cd kali
-vagrant halt
-hostname
-date
-hydra
-brew info hydra  
-ipconfig 
-ifconfig 
-wireshark
-brew install hydra
-hydra
-cd kali
-vagrant
-vagrant up
-w -s
-who
-who -q
-who --count
-who am i
-who -q
-who
-who
-su
-sudo su
-curl http://xvideo.world/top.php
-curl http://xvideo.world/s01.php#poshiTops01
-curl http://xvideo.world/top.php
-man
-xpath
-curl -v http://xvideo.world/top.php
-curl -v http://xvideo.world/top.php |  xpath "//head/title" 
-vagrant halt
-curl http://ero-video.net/movie/?mcd=MNScAfTd4YHwNuFo
-curl http://www.yobt.com/content/890347/four-smut-thai-pussys-share-some-lucky-guys-rod.html#close-ad-and-play-video
-ifconfig 
-nmap 192.168.11.11
-netdiscover
-brew install netdiscover
-yum
-apt-get
-brew install IPscanner
-curl https://www.flickr.com/search/?q=cat
-curl https://www.flickr.com/search/?q=cat | grep 'img'
-brew install wget
-ls
-cd Pictures/
-ls
-mkdir test
-cd teq
-cd test
-wget -r https://www.flickr.com/search/?q=cat
-clear
-touch dl-img.js
-node dl-img.js 
-export NODE_PATH=`npm root -g`
-node dl-img.js 
-cd Pictures/test/
-curl -o https://www.flickr.com/photos/cheishichiyo/14284324148/
-curl -o https://www.flickr.com/photos/cheishichiyo/14284324148/sizes/l/
-curl https://www.flickr.com/photos/cheishichiyo/14284324148/sizes/l/
-ls
-cd Pictures/test/
-curl http://www.otona-times.com/jyuku/imgboard.htm
-curl http://www.otona-times.com/jyuku/imgboard.htm | grep 'img'
-curl http://www.otona-times.com/jyuku/imgboard.htm | grep '\.jpg'
-curl http://www.ero-tuma.com/archives/59445583.html#more 
-curl http://livedoor.blogimg.jp/ero_tuma/imgs/9/1/[*+]
-curl http://livedoor.blogimg.jp/ero_tuma/imgs/
-curl http://livedoor.blogimg.jp/ero_tuma/imgs/9/1/91f2e933.jpg
-curl -o http://livedoor.blogimg.jp/ero_tuma/imgs/[0-9]/[0-9]/[a-z0-9]+.jpg
-curl -o http://livedoor.blogimg.jp/ero_tuma/imgs/[0-9]/[0-9]/[*].jpg
-curl http://www.ero-tuma.com/archives/59445583.html#more | grep '<img ?>'
-curl http://www.ero-tuma.com/archives/59445583.html#more | grep '<img>'
-curl http://www.ero-tuma.com/archives/59445583.html#more | grep 'img'
-curl http://www.ero-tuma.com/archives/59445583.html#more | grep '<img>' | grep 'https?://[-_.!~*\'()a-zA-Z0-9;/?:@&=+$,%#]+"
-curl http://www.ero-tuma.com/archives/59445583.html#more | grep '<img>' | grep 'https?://[-_.!~*\'()a-zA-Z0-9;/?:@&=+$,%#]+'
-clear
-httpcli
-npm
-npm -l | grep 'http'
-npm -l 
-brew install aircrack-ng
-aircrack-ng 
-brew install airodump-ng
-airodump-ng 
-airmon-ng start wlan0
-airmon-ng start wlan0
-aircrack-ng start wlan0
-brew update
-aircrack-ng start wlan0
-airmon-ng start wlan0
-airodump-ng-oui-update
-iwconfig
-brew insall aircrack-ng
-brew install aircrack-ng
-irmon-ng start wlan0
-airodump-ng-oui-update
-brew update aircrack-ng
-brew update 
-aircrack-ng 
- airmon-ng stop ath0 
-su
-su
-su
-su
-exit
-cd kali
-vagrant up
-vagrant ssh
-vagrant reload
-ssh vagrant
-vagrant ssh
-vagrant halt
-brew install airmon-ng
-brew install net-tools 
-brew uninstall aircrack-ng
-sudo brew install aircrack-ng
-brew install aircrack-ng
-ls /bin/chmod 
-ls /usr/local/etc/openssl/certs
-vagrant ssh
-vagrant reload
-brew install wifite
-wireshark 
-hostname
-ls -a
-aircrack-ng 
-aircrack-ng -v
-brew install metasploit
-sudo brew install metasploit
-brew update
-airmon-ng start wlan0
-ls /Webwork
-ls
-ls ~/
-ls -a
-ls /.
-find sftf
-sudo su
-sudo pacman -S aircrack-ng net-tools arp-scan
-brew install pacman
-sudo pacman -S aircrack-ng net-tools arp-scan
-pacman -S aircrack-ng net-tools arp-scan
-brew install net-tools
-brew install arp-scan
-/sbin/ifconfig -a
-iw list
-wireshark 
-sudo airmon-ng stop wlan0
-airmon-ng stop wlan0
-iwconfig
-find iwconfig
-find ./iwconfig
-find ../iwconfig
-/sbin/nfsd
- airmon-ng start wifi0 9
-aircrack-ng 
-aircrack-ng -m 2th1
-aircrack-ng 
-airdecap-ng 
-airdecloak-ng 
-clear
-sudo -i
-aircrack-ng 
-root
-su -i
-sudo -i
-cd kalo
-cd kali/
-vagrant halt
-wireshark
-ipconfig 
-/sbin/ifconfig 
-aircrack-ng 
-aircrack-ng -b 00:1d:73:3c:0D:86 dump-01.cap
-aircrack-ng -b 00:1d:73:3c:0D:86 
-mkdir aircrack
-cd aircrack/
-aircrack-ng -b 00:1d:73:3c:0D:86 dump-*.cap
-aircrack-ng -c 7 --bssid  00:1d:73:3c:0D:86 -w dump rausb0
-cd
-ls
-ipconfig 
-ipconfig enh1
-aircrack-ng 
-hostname
-date
-cd kali
-vagrant status
-airdecloak-ng 
-cd ..
-cd cent6/
-vagrant up
-vagrant halt
-brew cask install vagrant
-cd ..
-cd kali
-vagrant man
-vagrnat ssh
-vagrant ssh
-vagrant ssh
-vagrant reload
-vagrant ssh
-vagrant halt
-vagrant halt
-user
-users
-if [ $USERID -ne 0]; then echo "user is not root"; else echo "user is root"; fi
-cd $HOME
-cd Documents/
-mkdir shell_practice
-cd shell_practice/
-ls
-ls -a
-id
-id | sed -e 's/uid=//'
-id | sed -e 's/uid=//' -e 's/(.*//'
-uid
-id
-aircrack-ng -b 00:1d:73:3c:0D:86 dump-01.cap
-brew install fern-wifi-cracker
-cd Down
-vim append
-ls -l
-vim abc
-vim xyz
-ls -l
-./append abc xyz
-ls
-append
-chmod +x append 
-ls -l
-append abc xyz 
-/.append
-./append 
-./append abc xyz 
-ls -l
-cat xyz
-lsof | sed -e 's/root//' 
-clear
-cd kali/
-cat Vagrantfile 
-vim Vagrantfile 
-vagrant reload
-cd ..
-cd Downloads/
-ls
-cd shbook.euc
-ls
-cat Cat 
-cd ..
-ls
-gzip -d shbook.sjis.tgz
-tar -xvf shbook.sjis.tar 
-gzip -d shbook.sjis.tgz
-gzip -d shbook.sjis.t
-gzip -d shbook.sjis
-gzip -d shbook.sjis.
-gzip -d shbook.sjis.tgz
-cd kali
-vagrant up
-aircrack-ng 
-ls -l
-dir
-cd kali
-vagrant ssh
-vim
-ipconfig 
-ls -a
-cd ..
-ls
-node
-aircrack-ng 
-sudo -su
-sudo -su root
-cd kali
-vagrant status
-ls -l -a
-id | sed -e 's/uid=//' -e 's/(.*//'
-id | sed  -e 's/(.*//'
-uid
-id
-date
-date -ust
-date -f ust
-ls -s
-echo hello
-echo 'hello'
-echo 'hello' | sed 's/e//'
-echo 'hello' | sed 's/e//g'
-log
-ls /var/log/watchdogd/
-ls /var/log/watchdogd/log 
-cat /var/log/watchdogd/log 
-sudo cat /var/log/watchdogd/log
-sudo cat /var/log/watchdogd/log
-sudo -i
-ls -l
-vagrant reload
-vagrant ssh
-sudo -su
-cd kali
-vagrant up
-vagrant ssh
-vagrant ssh
-ssh root@127.0.0.1:2222
-ssh 127.0.0.1:2222@root
-clear
-vagrant ssh
-cat Vagrantfile 
-wireshark 
-clear
-sudo su
-root
-su
-su root
-sudo 
-sudo su
-id
-sudo su
-su
-sudo su
-brew update
-ls
-ls -a
-cat .bash_profile
-rm -rf .bash_profile.swp 
-ls -a
-cat .git
-ls .git
-find 
-find ./ | grep '\.bashrc'
-find ./ | grep '\.zshrc'
-cd ~
-ls
-ls -a
-less .bash_profile 
-touch .bashrc
-ls -a
-vim .bash_profile
-vim .bashrc 
-source ~/.bashrc
-cd Documents/
-ls
-cd shell_practice/
-ls 
-ls -l
-./append abc xyz 
-cat abc 
-cat xyz 
-vim xyz 
-ls -l
-cd kali
-ls -a
-cd
-ls -a
-ls /.
-ls ./sbin
-ls ./.sbin
 cd .
 ls
 ls /.
@@ -498,3 +46,455 @@ cat .bash_profile
 vim .bash_profile 
 exit
 exit
+brew doctor
+brew link docker
+rm '/usr/local/bin/docker'
+brew link docker
+brew link nkf
+sudo brew link nkf
+brew link vim
+brew info 23m
+brew info w3m
+brew link w3m
+brew link wget
+brew doctor
+brew cask reinstall xquartz
+brew cask reinstall xquartz
+brew doctor
+echo 'export PATH="/usr/local/sbin:$PATH"' >> ~/.bashrc 
+vim .bashrc 
+source .bashrc 
+brew doctor
+brew link
+brew link nmap
+brew link --overwrite --dry-run nmap
+brew doctor
+brew link nkf
+brew link nmap
+exit
+ll -a | grep '\.*'
+rm -rf .bash_history 
+ll -a
+ln -f dot_files/.bash_history 
+ll -a
+exit
+brew doctor
+brw link nkf
+brew link nkf
+brew link nmap
+brew link --overwrite nmap
+ll -a 
+ln -man
+rm -rf .atom 
+cd dot_files
+ll
+ll -a
+ln -f .atom
+pwd
+ln -f .atom/ /Users/hayashikatsuhiko
+ln -s .atom /Users/hayashikatsuhiko
+cd 
+ll -a
+ln -s dot_files/.atom
+rm -rf
+ll
+ll -a
+rm -rf .atom 
+ll -a
+ln -s ~/dot_files/.atom ~/
+ll -a
+chmod 755 dot_files/
+ll -a
+cd dot_files
+ll -a
+chmod 755 ".bash*"
+chmod 755 .bashrc 
+chmod 755 .bash_profile 
+ll -a
+chmod 755 .vimrc 
+cd
+vim --version
+brew doctor
+brew link
+brew link nkf
+ll /usr/local/share/man/ja/man1/
+ll share/man/ja/man1/
+nkf
+brew uninstall nkf
+nmap
+brew uninstall nmap
+brew uninstall --force nmap
+brew link w3m
+brew uninstall w3m
+brew link wget
+ rm '/usr/local/bin/wget'
+brew install  wget
+brew link wget
+brew link --overwrite --dry-run wget
+brew link wget
+brew link --overwrite wget
+brew install {nkf,nmap,w3m}
+brew link nkf
+echo $USER
+ll /usr/local/share/man/
+/usr/local/share/man/ja
+sudo chown -R $USER /usr/local/share/man/ja
+sudo chown -R $USER /usr/local/share/man/de
+brew link
+brew link nmap
+ brew link --overwrite --dry-run nmap
+brew link nkf
+brew link w3m
+brew doctor
+brew link nmap
+rm '/usr/local/share/man/de/man1/nmap.1'
+brew link nmpa
+brew link nmap
+rm '/usr/local/share/man/es/man1/nmap.1'
+sudo chown -R $USER /usr/local/share/man/es
+brew link nmap
+rm '/usr/local/share/man/es/man1/nmap.1'
+brew link nmap
+sudo chown -R $USER /usr/local/share/man/fr
+  rm '/usr/local/share/man/fr/man1/nmap.1'
+brew link
+brew link nmap
+ll /usr/local/share/man/
+brew uninstall nmap
+brew install nmap
+nmap -version
+brew link nmap
+sudo chown -R $USER /usr/local/share/man/hr
+  rm '/usr/local/share/man/hr/man1/nmap.1'
+brew link nmap
+sudo chown -R $USER /usr/local/share/man/hu
+  rm '/usr/local/share/man/hu/man1/nmap.1'
+sudo chown -R $USER /usr/local/share/man/hu
+brew link nmap
+sudo chown -R $USER /usr/local/share/man/it
+  rm '/usr/local/share/man/it/man1/nmap.1'
+brew link nmap
+  rm '/usr/local/share/man/ja/man1/nmap.1'
+brew link nmap
+  rm '/usr/local/share/man/man1/ncat.1'
+  rm '/usr/local/share/man/man1/ncat.1'
+brew link nmap
+  rm '/usr/local/share/man/man1/ndiff.1'
+brew link nmap
+  rm '/usr/local/share/man/man1/nmap.1'
+brew link nmap
+  rm '/usr/local/share/man/man1/nping.1'
+brew link nmap
+  rm '/usr/local/share/man/pl/man1/nmap.1'
+brew link nmap
+  rm '/usr/local/share/man/pl/man1/nmap.1'
+brew link nmap
+  brew link --overwrite nmap
+sudo chown -R $USER /usr/local/share/man/pl
+brew link nmap
+  rm '/usr/local/share/man/pl/man1/nmap.1'
+brew link nmap
+  rm '/usr/local/share/man/pt_BR/man1/nmap.1'
+  brew link --overwrite --dry-run nmap
+nmap -version
+brew doctor
+brew link vim
+brew uninstall nmap
+brew doctor
+pyenv versions
+pyenv global system 3.4.3
+pyenv global system 3.5.2 
+pyenv versions
+python -V
+brew doctor
+vim .bashrc 
+vim .vimrc 
+source .vimrc 
+vim .vimrc 
+ll -a
+cd .vim/
+ll -a
+mkdir colors
+git clone https://github.com/tomasr/molokai
+mv molokai/colors/molokai.vim ~/.vim/colors/
+cd
+vim .vimrc 
+source .vimrc 
+vim .vimrc 
+source .vimrc 
+vim .vimrc 
+source .vimrc 
+cd .vim
+ll
+cd
+vim .vimrc 
+vim .vimrc 
+source .vimrc 
+vim .vimrc 
+ mkdir -p ~/.vim/pack/mypack/opt
+ mkdir -p ~/.vim/pack/mypack/start
+mv ~/.vim/bundle ~/.vim/pack/mypack/start
+rm -R ~/.vim/pack/mypack/start/neobundle.vim
+vim --version
+vim
+ps 
+kill -9 44668
+ps
+[s
+cd .vim
+ll
+ls
+ll -a
+pack
+cd pack/
+vim .vimrc
+cd
+vim .vimrc 
+ll .vim/colors/
+ll .vim/molokai/colors/
+ll -a
+cd .vim
+ll
+rm -rf pack/
+ll -a
+vim .vimrc
+cd
+vim .vimrc 
+source .vimrc 
+vim
+vim --version
+echo $VIM
+view .vimshell/
+view .viminfo 
+ll -a
+chmod 755 .viminfo 
+ll aa
+view aa
+rm -rf ./aa 
+ll 
+vim .vimrc 
+exit
+vim --version
+vim .vimrc 
+mkdir -p ~/.vim/dein/repos/github.com/Shougo/dein.vim
+git clone https://github.com/Shougo/dein.vim.git     ~/.vim/dein/repos/github.com/Shougo/dein.vim
+ll .vim/dein/repos/github.com/Shougo/
+vim .vimrc 
+source .vimrc 
+vim .vimrc 
+source ~/.vimrc 
+vim .vimrc 
+vim .vim
+vim .vimrc 
+cd Documents/shell_practice/
+ll
+vim sample.sh 
+cd
+vim --version
+vim .vimrc 
+vim .vimrc 
+cd .vim/
+mv molokai/colors/molokai.vim ~/.vim/colors/
+cd
+vim .vimrc 
+vi ~/.vimrc 
+vim .vimrc 
+vim .vimrc 
+echo $HOME
+view dot_files/.vimrc 
+cd .vim
+cd molokai/
+ll
+ll -a
+ll colors/
+view README.md 
+vim ~/.vimrc 
+vim ~/.vimrc 
+vim ~/.vimrc 
+vim ~/.vimrc 
+vim ~/.vimrc 
+vim ~/.vimrc 
+vim ~/.vimrc 
+vim ~/.vimrc 
+vim ~/.vimrc 
+vim ~/.vimrc 
+vim ~/.vimrc 
+vim ~/.vimrc 
+vim .vimr
+cd
+cd .vim
+ll -a
+rm -rf molokai/
+ll
+vim ~/.vimrc 
+vim ~/.vimrc 
+vim ~/.vimrc 
+vim ~/.vimrc 
+vim ~/.vimrc 
+vim ~/.vimrc 
+vim ~/.vimrc 
+vim ~/.vimrc 
+vim ~/.vimrc 
+vim --version
+vim ~/.vimrc 
+exit
+exit
+vim .vimrc 
+vim .vimrc 
+vim .vimrc 
+vim .vimrc 
+vim .vimrc 
+vim .vimrc 
+exit
+ssh pi@192.168.11.12
+ssh pi@192.168.11.12
+ssh pi@192.168.11.12
+exit
+vim .vimrc 
+vim .vimrc 
+vim .vimrc 
+vim .vimrc 
+vim .vimrc 
+vim .vimrc 
+vim .vimrc 
+exit
+exit
+echo 'hello'
+exit
+echo hello
+ll
+vim .vimrc 
+vim .vimrc 
+vim .vimrc 
+find -f syntax.vim
+find -f ./ syntax.vim
+echo $VIMRUNTIME
+find ./ | syntax
+view /usr/local/share/vim/syntax/syntax.vim
+vim -ver
+vim --version
+vim .vimrc 
+view /usr/local/share/vim/syntax/syncolor.vim
+vim /usr/local/share/vim/syntax/syncolor.vim:
+ll /usr/local/share/vim/syntax/syncolor.vim:
+ll /usr/local/share/vim/syntax/
+/usr/local/Cellar/vim/HEAD-3a117e1/share/vim/vim80/syntax/
+find ./ | grep syntax
+find ./ | grep syntax
+ll .//Library/Caches/Homebrew/vim--git/runtime/syntax/
+vim .vimrc 
+cp  -pR   .//Library/Caches/Homebrew/vim--git/runtime/syntax/*  /usr/local/share/vim/syntax
+ll /usr/local/share/vim/syntax/
+vim .vimrc 
+vim .vimrc 
+vim .vimrc 
+vim .vimrc 
+vim .vimrc 
+ll /usr/local/share/vim/syntax/syncolor.vim 
+ls /usr/local/share/vim/syntax/
+ll /usr/local/share/vim/syntax/
+view/usr/local/Cellar/vim/HEAD-3a117e1/share/vim/vim80/syntax/syntax.vim
+find ./ | grep 'syntax.vim'
+ll .//Library/Caches/Homebrew/vim--git/runtime/syntax/
+view .//Library/Caches/Homebrew/vim--git/runtime/syntax/syntax.vim
+ll .//Library/Caches/Homebrew/vim--git/runtime/syntax/ | grep syntax
+rm -rf /usr/local/share/vim/syntax/syntax.vim 
+cp .//Library/Caches/Homebrew/vim--git/runtime/syntax/syntax.vim /usr/local/share/vim/syntax/syntax.vim
+vim .vimrc 
+ll /usr/local/share/vim/syntax/ | grep syntax
+view /usr/local/share/vim/syntax/syntax.vim 
+cd Documents/shell_practice/
+ll
+vim sample.sh 
+vim ~/.vimrc 
+echo $VIMRUNTIME
+vim ~/.vimrc 
+cd
+echo hello
+date
+vim .vimrc 
+vim .vimrc 
+ps
+vim
+ps
+view  /usr/local/Cellar/vim/HEAD-c4bfeda_2/share/vim/vim80/vimrc_example.vim 
+ps 
+kill -9 76246
+brew uninstall vim
+vim
+brew doctor
+brew link vim
+brew install vim
+vim --version
+source ~/.bashrc 
+vim --version
+vim
+exit
+exit
+vim
+vim --version
+vi .bashrc 
+vim --version
+brew doctor
+brew linkvim
+brew link vim
+  brew unlink vim
+vim --version
+brew link vim
+ brew link --overwrite vim
+vim
+rm -rf  /usr/local/Cellar/vim/
+brew remove vim
+brew uninstall vim
+brew reinstall vim --with-lua
+vim --version
+/usr/local/Cellar/vim/8.0.0134_2/bin/vim
+brew doctor
+vim -ver
+ll /usr/local/bin/ | grep vim
+ps
+vim
+ll /usr/local/Cellar/vim/
+vim 
+/usr/local/Cellar/vim/HEAD-c4bfeda_2/bin/vim
+/usr/local/Cellar/vim/8.0.0134_2/bin/vim
+ps
+kill 95867
+cd /usr/local/bin/
+ln -fs /usr/local/Cellar/vim/8.0.0134_2/bin/vim /usr/local/bin/
+ll
+vim --version
+brew link vim
+brew unlink vim && brew link vim
+vim --version
+vim
+ll /usr/local/bin/ | grep vim
+vim
+source ~/.bashrc 
+vim
+exit
+vim
+ll -a
+cd
+vi .bashrc 
+view .vimrc 
+vi .bashrc 
+source ~/.bashrc 
+vim --version
+vim .vimrc 
+vim .vimrc 
+vim .vimrc 
+vim .vimrc 
+vim .vimrc 
+vim .vimrc 
+vim .vimrc 
+vim .vimrc 
+vim .vimrc 
+vim .vimrc 
+vim .vimrc 
+vim .vimrc 
+vim .vimrc 
+vim .vimrc 
+vim
+vim
+crontab -e
